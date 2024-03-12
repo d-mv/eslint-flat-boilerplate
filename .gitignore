@@ -1,0 +1,7 @@
+**/dist
+**/build
+**/node_modules
+**/out
+**/.DS_Store
+*.log
+**/static
